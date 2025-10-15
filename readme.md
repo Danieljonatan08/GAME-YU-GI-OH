@@ -1,4 +1,5 @@
 🃏 Projeto Desafio DIO — Jogo Yu-Gi-Oh Jo-Ken-Pô
+
 Este projeto foi desenvolvido como parte de um desafio da plataforma DIO (Digital Innovation One), com o objetivo de aplicar conceitos de lógica de programação e desenvolvimento web na criação de um jogo interativo.
 
 🎮 Sobre o jogo
