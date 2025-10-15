@@ -25,7 +25,7 @@ Durante o desenvolvimento, foram abordados os seguintes tópicos:
 
 ## 🛠️ Tecnologias utilizadas
 
-| Tecnologia | Logo |
+| Tecnologia        |
 |------------|------|
 | HTML5      | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) |
 | CSS3       | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
@@ -53,15 +53,6 @@ Abra o arquivo `index.html` em seu navegador.
 
 ---
 
-## 📸 Preview
-
-Interface simples com:
-
-- Contador de vitórias e derrotas
-- Áudio de fundo
-- Personagens inspirados em Yu-Gi-Oh
-
----
 
 ## 📌 Próximos passos
 
