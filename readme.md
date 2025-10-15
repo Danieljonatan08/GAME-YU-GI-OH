@@ -25,7 +25,7 @@ Durante o desenvolvimento, foram abordados os seguintes tópicos:
 
 ## 🛠️ Tecnologias utilizadas
 
-| Tecnologia        |
+| Tecnologia |      |
 |------------|------|
 | HTML5      | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) |
 | CSS3       | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
